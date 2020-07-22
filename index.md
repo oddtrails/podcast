@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Odd Trails</title>
+
 </head>
 <body style="background-color:0FD927">
 <center>
